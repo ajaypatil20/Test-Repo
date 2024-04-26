@@ -1,1 +1,3 @@
-console.log("Hello Drizzler's");
+function girRevert() {
+    console.log("hi");
+}
